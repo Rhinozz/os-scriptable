@@ -1,4 +1,4 @@
-# os-scriptable
+# os-scriptable - MOVED TO https://github.com/Rhinozz/npm-scriptable
 The 'os' module from Node.js, ported to Scriptable.
 
 ### Constants:
